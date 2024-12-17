@@ -17,116 +17,570 @@
         "title": "Documents",
         "items": [
             {
-                "titles": "放屁在結腸直腸癌的角色",
+                "titles": "癌瑞格膜衣錠(Regorafenib)在癌症治療中的應用",
                 "author": "Cancerfree",
-                "no": 2459,
-                "date": "2024/10/31 01:06:00",
+                "no": 2129,
+                "date": "2024/11/11 10:09:00",
                 "tags": [
-                    "健康",
-                    "結腸直腸癌",
-                    "症狀",
-                    "預防",
-                    "放屁",
-                    "健康警告",
-                    "腸道氣體排放"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "深入了解放射治療於癌症中的應用",
-                "author": "Cancerfree",
-                "no": 2441,
-                "date": "2024/10/31 23:06:00",
-                "tags": [
-                    "化療",
                     "癌症治療",
-                    "癌症",
-                    "繁體中文",
-                    "腫瘤",
-                    "治療方法",
-                    "放射治療",
-                    "電療",
-                    "SEO",
-                    "癌症手術"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
-                    "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
-                    "Esophageal Cancer",
-                    "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
-                ]
-            },
-            {
-                "titles": "泰伏樂膠囊75毫克（Tafinlar Capsules 75mg）對於腫瘤治療之全面介紹",
-                "author": "Cancerfree",
-                "no": 2338,
-                "date": "2024/11/11 03:18:00",
-                "tags": [
-                    "治療",
-                    "癌症",
-                    "藥物",
-                    "藥物治療",
-                    "抗癌藥",
-                    "非小細胞肺癌",
-                    "膠囊",
-                    "泰伏樂",
-                    "75毫克",
+                    "肝細胞癌",
+                    "大腸直腸癌",
+                    "癌瑞格膜衣錠40毫克",
                     "癌症藥物介紹",
-                    "黑色素瘤",
-                    "實體腫瘤",
-                    "BRAF V600E突變"
+                    "Regorafenib"
                 ],
                 "website": [
-                    "Prostate Cancer",
+                    "Liver Cancer",
                     "Colorectal Cancer"
                 ]
             },
             {
-                "titles": "安能得微脂體注射劑的全面介紹",
+                "titles": "歐莎鉑靜脈注射液：全面介紹和應用於結腸癌、胃癌與胰臟癌的藥品評論",
                 "author": "Cancerfree",
-                "no": 2228,
-                "date": "2024/11/11 05:46:00",
+                "no": 2174,
+                "date": "2024/11/11 09:11:00",
                 "tags": [
                     "胃癌",
-                    "藥物介紹",
-                    "癌症治療",
-                    "安能得微脂體注射劑",
-                    "肺癌",
-                    "胰腺癌",
-                    "結直腸癌",
+                    "抗癌藥",
+                    "胰臟癌",
+                    "歐莎鉑靜脈注射液",
+                    "結腸癌",
+                    "藥品評論",
                     "癌症藥物介紹"
                 ],
                 "website": [
                     "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "對於歐善鉑”山德士”凍晶靜脈注射劑之全面介紹",
+                "author": "Cancerfree",
+                "no": 2175,
+                "date": "2024/11/11 09:10:00",
+                "tags": [
+                    "Gastric Cancer",
+                    "Oxaliplatin",
+                    "Chemotherapy",
+                    "Pancreatic Cancer",
+                    "Cancer Treatment",
+                    "癌症藥物介紹",
+                    "Traditional Chinese",
+                    "Medication",
+                    "Colorectal Cancer",
+                    "Antineoplastic Agent"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "歐思廷凍晶注射劑 (Oxitan Lyophilized Powder for Injection)之深入剖析：對結腸癌、胃癌與胰臟癌的治療",
+                "author": "Cancerfree",
+                "no": 2176,
+                "date": "2024/11/11 09:07:00",
+                "tags": [
+                    "胃癌",
+                    "治療",
+                    "癌症",
+                    "藥物",
+                    "胰臟癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "OXALIPLATIN",
+                    "Oxitan Lyophilized Powder for Injection"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "深度解析：益樂鉑定注射液 (Eloxatin 5mg/ml)對於腫瘤治療的促進作用",
+                "author": "Cancerfree",
+                "no": 2177,
+                "date": "2024/11/11 09:06:00",
+                "tags": [
+                    "藥物介紹",
+                    "藥物作用機制",
+                    "化療藥物",
+                    "癌症藥物",
+                    "腫瘤治療",
+                    "益樂鉑定注射液",
+                    "癌症藥物介紹",
+                    "藥物適應症",
+                    "臨床研究與實證",
+                    "總結展望",
+                    "腦腦狀病變",
+                    "藥物用法用量"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "對於轉移性腸直腸癌的全面指南：益樂鉑定凍晶注射劑100毫克（ELOXATIN FREEZE DRIED POWDER FOR INFUSION 100MG）",
+                "author": "Cancerfree",
+                "no": 2178,
+                "date": "2024/11/11 06:44:00",
+                "tags": [
+                    "胃癌",
+                    "癌症治療",
+                    "氧化鉑",
+                    "癌症藥物介紹",
+                    "OXALIPLATIN",
+                    "轉移性腸直腸癌",
+                    "益樂鉑定凍晶注射劑100毫克"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "益樂鉑定凍晶注射劑５毫克/毫升結直腸癌、胃癌及胰臟癌療法詳解",
+                "author": "Cancerfree",
+                "no": 2179,
+                "date": "2024/11/11 06:43:00",
+                "tags": [
+                    "胃癌",
+                    "DNA",
+                    "Oxaliplatin",
+                    "益樂鉑定",
+                    "靜脈注射",
+                    "賽諾菲",
+                    "胰臟癌",
+                    "結直腸癌",
+                    "存活率",
+                    "5-FU",
+                    "癌症藥物介紹",
+                    "抗癌療法",
+                    "FA",
+                    "細胞死亡^",
+                    "無疾病進展"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "杏輝杏瑞鉑靜脈注射液5毫克/毫升 (ORECTALIP IV INJECTION 5MG/ML) 治療結腸癌、胃癌及胰臟癌的全面介紹",
+                "author": "Cancerfree",
+                "no": 2180,
+                "date": "2024/11/11 06:41:00",
+                "tags": [
+                    "胃癌",
+                    "醫學",
+                    "癌症",
+                    "藥物",
+                    "胰臟癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "OXALIPLATIN",
+                    "杏輝杏瑞鉑靜脈注射液5毫克/毫升"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "奧力美靜脈注射液5毫克/毫升 (Opatin I.V. Injection 5mg/ml) 用於治療結腸癌、胃癌、胰臟癌的詳細介紹",
+                "author": "Cancerfree",
+                "no": 2181,
+                "date": "2024/11/11 06:40:00",
+                "tags": [
+                    "胃癌",
+                    "治療",
+                    "藥物簡介",
+                    "胰臟癌",
+                    "奧力美靜脈注射液",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "南光化學製藥股份有限公司",
+                    "OXALIPLATIN"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "優鉑廷靜脈注射液5毫克/毫升：對抗色直腸癌、胃癌以及胰臟癌的有力藥劑",
+                "author": "Cancerfree",
+                "no": 2182,
+                "date": "2024/11/11 06:39:00",
+                "tags": [
+                    "胃癌",
+                    "藥物介紹",
+                    "癌症治療",
+                    "優鉑廷靜脈注射液5毫克/毫升",
+                    "靜脈注射",
+                    "胰臟癌",
+                    "直腸癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "美時化學製藥股份有限公司",
+                    "OXALIPLATIN"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "歐力普注射劑 (OXALIP INJECTION) 在腸癌、胃癌和胰腺癌治療中的全面介紹",
+                "author": "Cancerfree",
+                "no": 2183,
+                "date": "2024/11/11 06:37:00",
+                "tags": [
+                    "胃癌",
+                    "化療藥物",
+                    "奧沙利鉑",
+                    "歐力普注射劑",
+                    "胰腺癌",
+                    "腸癌",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "鉑善寧凍晶注射劑：對於結腸癌、胃癌、胰臟癌的全面解說",
+                "author": "Cancerfree",
+                "no": 2184,
+                "date": "2024/11/11 06:36:00",
+                "tags": [
+                    "胃癌",
+                    "鉑善寧凍晶注射劑",
+                    "作用機制",
+                    "胰臟癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "治療適應症",
+                    "用藥須知",
+                    "臨床研究與實證",
+                    "總結展望",
+                    "藥物概述"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "關於鉑善寧注射液5毫克/毫升 (Oxaliplatin Mylan)用於治療結腸癌、胃癌及胰臟癌的導讀",
+                "author": "Cancerfree",
+                "no": 2185,
+                "date": "2024/11/11 06:35:00",
+                "tags": [
+                    "胃癌",
+                    "化療藥物",
+                    "癌症",
+                    "醫療",
+                    "注射液",
+                    "Oxaliplatin Mylan",
+                    "胰臟癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "鉑善寧"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "意欣歐效立注射劑5毫克/毫升 (Oxaoxa Injection 5 mg/mL \"L.L.\") 的詳盡介紹",
+                "author": "Cancerfree",
+                "no": 2186,
+                "date": "2024/11/11 06:34:00",
+                "tags": [
+                    "胃癌",
+                    "癌症治療",
+                    "化學療法",
+                    "胰臟癌",
+                    "結腸癌",
+                    "意欣歐效立注射劑",
+                    "癌症藥物介紹",
+                    "Oxaoxa Injection 5 mg/mL",
+                    "OXALIPLATIN"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "霖揚奧沙利鉑注射劑5毫克/毫升 (Oxaliplatin Injection 5mg/mL \\\"GBC\\\"): 結腸癌、胃癌、胰臟癌的全面介紹",
+                "author": "Cancerfree",
+                "no": 2187,
+                "date": "2024/11/11 06:33:00",
+                "tags": [
+                    "Gastric Cancer",
+                    "Oxaliplatin",
+                    "Chemotherapy",
+                    "Pancreatic Cancer",
+                    "Cancer",
+                    "Chinese",
+                    "癌症藥物介紹",
+                    "Colorectal Cancer",
+                    "Pharmacology"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "若克瘤注射液10公絲/公撮 (LEUCOVORIN 10MG/ML INJECTION) 於大腸癌治療之全面介紹",
+                "author": "Cancerfree",
+                "no": 2195,
+                "date": "2024/11/11 06:24:00",
+                "tags": [
+                    "藥物介紹",
+                    "化療",
+                    "抗癌藥物",
+                    "藥物治療",
+                    "大腸癌",
+                    "若克瘤注射液",
+                    "癌症藥物介紹",
+                    "抗葉酸"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "肯血福注射劑3公絲/公撮 (CALCIUMFOLINAT-EBEWE 1ML AMP)於結腸直腸癌症患者的應用",
+                "author": "Cancerfree",
+                "no": 2198,
+                "date": "2024/11/11 06:21:00",
+                "tags": [
+                    "化療",
+                    "頭頸癌",
+                    "結腸直腸癌",
+                    "臨床研究",
+                    "藥物敏感性測試",
+                    "癌症藥物介紹",
+                    "肯血福注射劑３公絲／公撮 (CALCIUMFOLINAT-EBEWE 1ML AMP.)"
+                ],
+                "website": [
+                    "Colorectal Cancer",
+                    "Head and Neck Cancer"
+                ]
+            },
+            {
+                "titles": "肝富寧注射劑 (兒童用) (EPARMEFOLIN AMPOULES \"P.U\") 於結腸直腸癌治療的應用",
+                "author": "Cancerfree",
+                "no": 2202,
+                "date": "2024/11/11 06:16:00",
+                "tags": [
+                    "藥品介紹",
+                    "作用機制",
+                    "結腸直腸癌",
+                    "臨床研究",
+                    "肝富寧",
+                    "癌症藥物介紹",
+                    "用藥須知"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "肝富寧注射劑 (EPARMEFOLIN AMPOULES) 對於大腸癌的了解與使用指南",
+                "author": "Cancerfree",
+                "no": 2203,
+                "date": "2024/11/11 06:15:00",
+                "tags": [
+                    "藥物介紹",
+                    "癌症治療",
+                    "大腸癌",
+                    "肝富寧注射劑",
+                    "癌症藥物介紹",
+                    "葉酸輔助劑",
+                    "BRACCO S.P.A.",
+                    "富富企業股份有限公司"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "關於鈣服娜錠 15 毫克 (Cafona Tablets 15 mg) 於結直腸癌治療的全方位介紹",
+                "author": "Cancerfree",
+                "no": 2204,
+                "date": "2024/11/11 06:13:00",
+                "tags": [
+                    "化療",
+                    "副作用緩解",
+                    "大腸直腸癌",
+                    "鈣服娜錠 15 毫克",
+                    "癌症藥物介紹",
+                    "葉酸拮抗劑"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "「強生」克福臨錠15毫克 (CALFOLIN TABLETS 15MG “JOHNSON”) 消化道腫瘤介紹",
+                "author": "Cancerfree",
+                "no": 2205,
+                "date": "2024/11/11 06:12:00",
+                "tags": [
+                    "抗癌藥物",
+                    "癌症藥物介紹",
+                    "葉酸拮抗劑",
+                    "強生",
+                    "克福臨",
+                    "消化道腫瘤",
+                    "營養補充"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "凱芬妮錠：解析癌症治療的重鎮角色",
+                "author": "Cancerfree",
+                "no": 2206,
+                "date": "2024/11/11 06:11:00",
+                "tags": [
+                    "藥物介紹",
+                    "癌症治療",
+                    "繁體中文",
+                    "腫瘤",
+                    "葉酸",
+                    "凱芬妮錠",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "深度解析：南光好立補錠15公絲 (CALIFE TABLETS 15MG \"N.K.\") 在結直腸癌治療的應用",
+                "author": "Cancerfree",
+                "no": 2209,
+                "date": "2024/11/11 06:07:00",
+                "tags": [
+                    "藥物介紹",
+                    "醫療專業",
+                    "結直腸癌",
+                    "南光好立補錠15公絲",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "意欣福剋治注射液10毫克/毫升於大腸癌治療的應用",
+                "author": "Cancerfree",
+                "no": 2210,
+                "date": "2024/11/11 06:06:00",
+                "tags": [
+                    "癌症治療",
+                    "小細胞肺癌",
+                    "大腸癌",
+                    "直腸癌",
+                    "意欣福剋治注射液",
+                    "臨床研究",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Colorectal Cancer",
+                    "Small Cell Lung Cancer"
+                ]
+            },
+            {
+                "titles": "百博愛諾康靜脈輸注濃縮液20毫克/毫升 (Irinotecan BioPro 20mg/ml，concentrate for solution for infusion) 細緻介紹",
+                "author": "Cancerfree",
+                "no": 2217,
+                "date": "2024/11/11 05:59:00",
+                "tags": [
+                    "化療",
+                    "百博愛諾康",
+                    "靜脈輸注濃縮液",
+                    "大腸癌",
+                    "5-FU",
+                    "癌症藥物介紹",
+                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE",
+                    "晚期",
+                    "第一線治療藥物",
+                    "FOLINIC ACID"
+                ],
+                "website": [
+                    "Gastric Cancer",
                     "Lung Cancer",
                     "Pancreatic Cancer",
                     "Colorectal Cancer"
                 ]
             },
             {
-                "titles": "益立諾靜脈輸注液：晚期大腸癌、胃癌、胰臟癌治療解析",
+                "titles": "怡瑞納靜脈注射劑 (Irenax Injection 40mg/100mg)：肺癌、大腸癌、胃癌與胰臟癌治療的導讀",
                 "author": "Cancerfree",
-                "no": 2226,
-                "date": "2024/11/11 05:48:00",
+                "no": 2218,
+                "date": "2024/11/11 05:57:00",
                 "tags": [
                     "胃癌",
-                    "癌症治療",
-                    "益立諾",
-                    "靜脈輸注液",
+                    "藥物介紹",
+                    "適應症",
+                    "肺癌",
                     "胰臟癌",
-                    "大腸直腸癌",
+                    "大腸癌",
                     "癌症藥物介紹",
-                    "臺灣東洋藥品工業股份有限公司",
-                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE"
+                    "用藥須知",
+                    "臨床研究與實證",
+                    "Irenax Injection 40mg/100mg"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Lung Cancer",
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "癌治佳靜脈輸注濃縮液 (Irinotel Injection) 深度藥品解析",
+                "author": "Cancerfree",
+                "no": 2219,
+                "date": "2024/11/11 05:56:00",
+                "tags": [
+                    "胃癌",
+                    "抗癌藥物",
+                    "治療",
+                    "藥物",
+                    "藥理學",
+                    "癌治佳靜脈輸注濃縮液",
+                    "肺癌",
+                    "胰臟癌",
+                    "大腸癌",
+                    "葉酸",
+                    "癌症藥物介紹",
+                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE",
+                    "五氟尿嘧啶"
                 ],
                 "website": [
                     "Gastric Cancer",
@@ -164,24 +618,20 @@
                 ]
             },
             {
-                "titles": "癌治佳靜脈輸注濃縮液 (Irinotel Injection) 深度藥品解析",
+                "titles": "益立諾靜脈輸注液：晚期大腸癌、胃癌、胰臟癌治療解析",
                 "author": "Cancerfree",
-                "no": 2219,
-                "date": "2024/11/11 05:56:00",
+                "no": 2226,
+                "date": "2024/11/11 05:48:00",
                 "tags": [
                     "胃癌",
-                    "抗癌藥物",
-                    "治療",
-                    "藥物",
-                    "藥理學",
-                    "癌治佳靜脈輸注濃縮液",
-                    "肺癌",
+                    "癌症治療",
+                    "益立諾",
+                    "靜脈輸注液",
                     "胰臟癌",
-                    "大腸癌",
-                    "葉酸",
+                    "大腸直腸癌",
                     "癌症藥物介紹",
-                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE",
-                    "五氟尿嘧啶"
+                    "臺灣東洋藥品工業股份有限公司",
+                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE"
                 ],
                 "website": [
                     "Gastric Cancer",
@@ -191,21 +641,19 @@
                 ]
             },
             {
-                "titles": "怡瑞納靜脈注射劑 (Irenax Injection 40mg/100mg)：肺癌、大腸癌、胃癌與胰臟癌治療的導讀",
+                "titles": "安能得微脂體注射劑的全面介紹",
                 "author": "Cancerfree",
-                "no": 2218,
-                "date": "2024/11/11 05:57:00",
+                "no": 2228,
+                "date": "2024/11/11 05:46:00",
                 "tags": [
                     "胃癌",
                     "藥物介紹",
-                    "適應症",
+                    "癌症治療",
+                    "安能得微脂體注射劑",
                     "肺癌",
-                    "胰臟癌",
-                    "大腸癌",
-                    "癌症藥物介紹",
-                    "用藥須知",
-                    "臨床研究與實證",
-                    "Irenax Injection 40mg/100mg"
+                    "胰腺癌",
+                    "結直腸癌",
+                    "癌症藥物介紹"
                 ],
                 "website": [
                     "Gastric Cancer",
@@ -215,524 +663,76 @@
                 ]
             },
             {
-                "titles": "百博愛諾康靜脈輸注濃縮液20毫克/毫升 (Irinotecan BioPro 20mg/ml，concentrate for solution for infusion) 細緻介紹",
+                "titles": "泰伏樂膠囊75毫克（Tafinlar Capsules 75mg）對於腫瘤治療之全面介紹",
                 "author": "Cancerfree",
-                "no": 2217,
-                "date": "2024/11/11 05:59:00",
+                "no": 2338,
+                "date": "2024/11/11 03:18:00",
+                "tags": [
+                    "治療",
+                    "癌症",
+                    "藥物",
+                    "藥物治療",
+                    "抗癌藥",
+                    "非小細胞肺癌",
+                    "膠囊",
+                    "泰伏樂",
+                    "75毫克",
+                    "癌症藥物介紹",
+                    "黑色素瘤",
+                    "實體腫瘤",
+                    "BRAF V600E突變"
+                ],
+                "website": [
+                    "Prostate Cancer",
+                    "Colorectal Cancer"
+                ]
+            },
+            {
+                "titles": "深入了解放射治療於癌症中的應用",
+                "author": "Cancerfree",
+                "no": 2441,
+                "date": "2024/10/31 23:06:00",
                 "tags": [
                     "化療",
-                    "百博愛諾康",
-                    "靜脈輸注濃縮液",
-                    "大腸癌",
-                    "5-FU",
-                    "癌症藥物介紹",
-                    "IRINOTECAN HYDROCHLORIDE TRIHYDRATE",
-                    "晚期",
-                    "第一線治療藥物",
-                    "FOLINIC ACID"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Lung Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "意欣福剋治注射液10毫克/毫升於大腸癌治療的應用",
-                "author": "Cancerfree",
-                "no": 2210,
-                "date": "2024/11/11 06:06:00",
-                "tags": [
                     "癌症治療",
-                    "小細胞肺癌",
-                    "大腸癌",
-                    "直腸癌",
-                    "意欣福剋治注射液",
-                    "臨床研究",
-                    "癌症藥物介紹"
-                ],
-                "website": [
-                    "Colorectal Cancer",
-                    "Small Cell Lung Cancer"
-                ]
-            },
-            {
-                "titles": "深度解析：南光好立補錠15公絲 (CALIFE TABLETS 15MG \"N.K.\") 在結直腸癌治療的應用",
-                "author": "Cancerfree",
-                "no": 2209,
-                "date": "2024/11/11 06:07:00",
-                "tags": [
-                    "藥物介紹",
-                    "醫療專業",
-                    "結直腸癌",
-                    "南光好立補錠15公絲",
-                    "癌症藥物介紹"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "凱芬妮錠：解析癌症治療的重鎮角色",
-                "author": "Cancerfree",
-                "no": 2206,
-                "date": "2024/11/11 06:11:00",
-                "tags": [
-                    "藥物介紹",
-                    "癌症治療",
+                    "癌症",
                     "繁體中文",
                     "腫瘤",
-                    "葉酸",
-                    "凱芬妮錠",
-                    "癌症藥物介紹"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "「強生」克福臨錠15毫克 (CALFOLIN TABLETS 15MG “JOHNSON”) 消化道腫瘤介紹",
-                "author": "Cancerfree",
-                "no": 2205,
-                "date": "2024/11/11 06:12:00",
-                "tags": [
-                    "抗癌藥物",
-                    "癌症藥物介紹",
-                    "葉酸拮抗劑",
-                    "強生",
-                    "克福臨",
-                    "消化道腫瘤",
-                    "營養補充"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "關於鈣服娜錠 15 毫克 (Cafona Tablets 15 mg) 於結直腸癌治療的全方位介紹",
-                "author": "Cancerfree",
-                "no": 2204,
-                "date": "2024/11/11 06:13:00",
-                "tags": [
-                    "化療",
-                    "副作用緩解",
-                    "大腸直腸癌",
-                    "鈣服娜錠 15 毫克",
-                    "癌症藥物介紹",
-                    "葉酸拮抗劑"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "肝富寧注射劑 (EPARMEFOLIN AMPOULES) 對於大腸癌的了解與使用指南",
-                "author": "Cancerfree",
-                "no": 2203,
-                "date": "2024/11/11 06:15:00",
-                "tags": [
-                    "藥物介紹",
-                    "癌症治療",
-                    "大腸癌",
-                    "肝富寧注射劑",
-                    "癌症藥物介紹",
-                    "葉酸輔助劑",
-                    "BRACCO S.P.A.",
-                    "富富企業股份有限公司"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "肝富寧注射劑 (兒童用) (EPARMEFOLIN AMPOULES \"P.U\") 於結腸直腸癌治療的應用",
-                "author": "Cancerfree",
-                "no": 2202,
-                "date": "2024/11/11 06:16:00",
-                "tags": [
-                    "藥品介紹",
-                    "作用機制",
-                    "結腸直腸癌",
-                    "臨床研究",
-                    "肝富寧",
-                    "癌症藥物介紹",
-                    "用藥須知"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "肯血福注射劑3公絲/公撮 (CALCIUMFOLINAT-EBEWE 1ML AMP)於結腸直腸癌症患者的應用",
-                "author": "Cancerfree",
-                "no": 2198,
-                "date": "2024/11/11 06:21:00",
-                "tags": [
-                    "化療",
-                    "頭頸癌",
-                    "結腸直腸癌",
-                    "臨床研究",
-                    "藥物敏感性測試",
-                    "癌症藥物介紹",
-                    "肯血福注射劑３公絲／公撮 (CALCIUMFOLINAT-EBEWE 1ML AMP.)"
-                ],
-                "website": [
-                    "Colorectal Cancer",
-                    "Head and Neck Cancer"
-                ]
-            },
-            {
-                "titles": "若克瘤注射液10公絲/公撮 (LEUCOVORIN 10MG/ML INJECTION) 於大腸癌治療之全面介紹",
-                "author": "Cancerfree",
-                "no": 2195,
-                "date": "2024/11/11 06:24:00",
-                "tags": [
-                    "藥物介紹",
-                    "化療",
-                    "抗癌藥物",
-                    "藥物治療",
-                    "大腸癌",
-                    "若克瘤注射液",
-                    "癌症藥物介紹",
-                    "抗葉酸"
-                ],
-                "website": [
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "霖揚奧沙利鉑注射劑5毫克/毫升 (Oxaliplatin Injection 5mg/mL \\\"GBC\\\"): 結腸癌、胃癌、胰臟癌的全面介紹",
-                "author": "Cancerfree",
-                "no": 2187,
-                "date": "2024/11/11 06:33:00",
-                "tags": [
-                    "Gastric Cancer",
-                    "Oxaliplatin",
-                    "Chemotherapy",
-                    "Pancreatic Cancer",
-                    "Cancer",
-                    "Chinese",
-                    "癌症藥物介紹",
-                    "Colorectal Cancer",
-                    "Pharmacology"
+                    "治療方法",
+                    "放射治療",
+                    "電療",
+                    "SEO",
+                    "癌症手術"
                 ],
                 "website": [
                     "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "意欣歐效立注射劑5毫克/毫升 (Oxaoxa Injection 5 mg/mL \"L.L.\") 的詳盡介紹",
-                "author": "Cancerfree",
-                "no": 2186,
-                "date": "2024/11/11 06:34:00",
-                "tags": [
-                    "胃癌",
-                    "癌症治療",
-                    "化學療法",
-                    "胰臟癌",
-                    "結腸癌",
-                    "意欣歐效立注射劑",
-                    "癌症藥物介紹",
-                    "Oxaoxa Injection 5 mg/mL",
-                    "OXALIPLATIN"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "關於鉑善寧注射液5毫克/毫升 (Oxaliplatin Mylan)用於治療結腸癌、胃癌及胰臟癌的導讀",
-                "author": "Cancerfree",
-                "no": 2185,
-                "date": "2024/11/11 06:35:00",
-                "tags": [
-                    "胃癌",
-                    "化療藥物",
-                    "癌症",
-                    "醫療",
-                    "注射液",
-                    "Oxaliplatin Mylan",
-                    "胰臟癌",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "鉑善寧"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "鉑善寧凍晶注射劑：對於結腸癌、胃癌、胰臟癌的全面解說",
-                "author": "Cancerfree",
-                "no": 2184,
-                "date": "2024/11/11 06:36:00",
-                "tags": [
-                    "胃癌",
-                    "鉑善寧凍晶注射劑",
-                    "作用機制",
-                    "胰臟癌",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "治療適應症",
-                    "用藥須知",
-                    "臨床研究與實證",
-                    "總結展望",
-                    "藥物概述"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "歐力普注射劑 (OXALIP INJECTION) 在腸癌、胃癌和胰腺癌治療中的全面介紹",
-                "author": "Cancerfree",
-                "no": 2183,
-                "date": "2024/11/11 06:37:00",
-                "tags": [
-                    "胃癌",
-                    "化療藥物",
-                    "奧沙利鉑",
-                    "歐力普注射劑",
-                    "胰腺癌",
-                    "腸癌",
-                    "癌症藥物介紹"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "優鉑廷靜脈注射液5毫克/毫升：對抗色直腸癌、胃癌以及胰臟癌的有力藥劑",
-                "author": "Cancerfree",
-                "no": 2182,
-                "date": "2024/11/11 06:39:00",
-                "tags": [
-                    "胃癌",
-                    "藥物介紹",
-                    "癌症治療",
-                    "優鉑廷靜脈注射液5毫克/毫升",
-                    "靜脈注射",
-                    "胰臟癌",
-                    "直腸癌",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "美時化學製藥股份有限公司",
-                    "OXALIPLATIN"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "奧力美靜脈注射液5毫克/毫升 (Opatin I.V. Injection 5mg/ml) 用於治療結腸癌、胃癌、胰臟癌的詳細介紹",
-                "author": "Cancerfree",
-                "no": 2181,
-                "date": "2024/11/11 06:40:00",
-                "tags": [
-                    "胃癌",
-                    "治療",
-                    "藥物簡介",
-                    "胰臟癌",
-                    "奧力美靜脈注射液",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "南光化學製藥股份有限公司",
-                    "OXALIPLATIN"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "杏輝杏瑞鉑靜脈注射液5毫克/毫升 (ORECTALIP IV INJECTION 5MG/ML) 治療結腸癌、胃癌及胰臟癌的全面介紹",
-                "author": "Cancerfree",
-                "no": 2180,
-                "date": "2024/11/11 06:41:00",
-                "tags": [
-                    "胃癌",
-                    "醫學",
-                    "癌症",
-                    "藥物",
-                    "胰臟癌",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "OXALIPLATIN",
-                    "杏輝杏瑞鉑靜脈注射液5毫克/毫升"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "益樂鉑定凍晶注射劑５毫克/毫升結直腸癌、胃癌及胰臟癌療法詳解",
-                "author": "Cancerfree",
-                "no": 2179,
-                "date": "2024/11/11 06:43:00",
-                "tags": [
-                    "胃癌",
-                    "DNA",
-                    "Oxaliplatin",
-                    "益樂鉑定",
-                    "靜脈注射",
-                    "賽諾菲",
-                    "胰臟癌",
-                    "結直腸癌",
-                    "存活率",
-                    "5-FU",
-                    "癌症藥物介紹",
-                    "抗癌療法",
-                    "FA",
-                    "細胞死亡^",
-                    "無疾病進展"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "對於轉移性腸直腸癌的全面指南：益樂鉑定凍晶注射劑100毫克（ELOXATIN FREEZE DRIED POWDER FOR INFUSION 100MG）",
-                "author": "Cancerfree",
-                "no": 2178,
-                "date": "2024/11/11 06:44:00",
-                "tags": [
-                    "胃癌",
-                    "癌症治療",
-                    "氧化鉑",
-                    "癌症藥物介紹",
-                    "OXALIPLATIN",
-                    "轉移性腸直腸癌",
-                    "益樂鉑定凍晶注射劑100毫克"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "深度解析：益樂鉑定注射液 (Eloxatin 5mg/ml)對於腫瘤治療的促進作用",
-                "author": "Cancerfree",
-                "no": 2177,
-                "date": "2024/11/11 09:06:00",
-                "tags": [
-                    "藥物介紹",
-                    "藥物作用機制",
-                    "化療藥物",
-                    "癌症藥物",
-                    "腫瘤治療",
-                    "益樂鉑定注射液",
-                    "癌症藥物介紹",
-                    "藥物適應症",
-                    "臨床研究與實證",
-                    "總結展望",
-                    "腦腦狀病變",
-                    "藥物用法用量"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "歐思廷凍晶注射劑 (Oxitan Lyophilized Powder for Injection)之深入剖析：對結腸癌、胃癌與胰臟癌的治療",
-                "author": "Cancerfree",
-                "no": 2176,
-                "date": "2024/11/11 09:07:00",
-                "tags": [
-                    "胃癌",
-                    "治療",
-                    "癌症",
-                    "藥物",
-                    "胰臟癌",
-                    "結腸癌",
-                    "癌症藥物介紹",
-                    "OXALIPLATIN",
-                    "Oxitan Lyophilized Powder for Injection"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "對於歐善鉑”山德士”凍晶靜脈注射劑之全面介紹",
-                "author": "Cancerfree",
-                "no": 2175,
-                "date": "2024/11/11 09:10:00",
-                "tags": [
-                    "Gastric Cancer",
-                    "Oxaliplatin",
-                    "Chemotherapy",
-                    "Pancreatic Cancer",
-                    "Cancer Treatment",
-                    "癌症藥物介紹",
-                    "Traditional Chinese",
-                    "Medication",
-                    "Colorectal Cancer",
-                    "Antineoplastic Agent"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "歐莎鉑靜脈注射液：全面介紹和應用於結腸癌、胃癌與胰臟癌的藥品評論",
-                "author": "Cancerfree",
-                "no": 2174,
-                "date": "2024/11/11 09:11:00",
-                "tags": [
-                    "胃癌",
-                    "抗癌藥",
-                    "胰臟癌",
-                    "歐莎鉑靜脈注射液",
-                    "結腸癌",
-                    "藥品評論",
-                    "癌症藥物介紹"
-                ],
-                "website": [
-                    "Gastric Cancer",
-                    "Pancreatic Cancer",
-                    "Colorectal Cancer"
-                ]
-            },
-            {
-                "titles": "癌瑞格膜衣錠(Regorafenib)在癌症治療中的應用",
-                "author": "Cancerfree",
-                "no": 2129,
-                "date": "2024/11/11 10:09:00",
-                "tags": [
-                    "癌症治療",
-                    "肝細胞癌",
-                    "大腸直腸癌",
-                    "癌瑞格膜衣錠40毫克",
-                    "癌症藥物介紹",
-                    "Regorafenib"
-                ],
-                "website": [
                     "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "放屁在結腸直腸癌的角色",
+                "author": "Cancerfree",
+                "no": 2459,
+                "date": "2024/10/31 01:06:00",
+                "tags": [
+                    "健康",
+                    "結腸直腸癌",
+                    "症狀",
+                    "預防",
+                    "放屁",
+                    "健康警告",
+                    "腸道氣體排放"
+                ],
+                "website": [
                     "Colorectal Cancer"
                 ]
             },
@@ -818,6 +818,38 @@
                     "健保給付",
                     "公共衛生",
                     "醫療政策"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入瞭解標靶治療在癌症中的應用",
+                "author": "Cancerfree",
+                "no": 2463,
+                "date": "2024/10/31 00:19:00",
+                "tags": [
+                    "化療",
+                    "癌症",
+                    "肺癌",
+                    "乳腺癌",
+                    "標靶治療",
+                    "結腸癌",
+                    "赫赛汀",
+                    "利妥昔單抗",
+                    "基因檢測",
+                    "個體化治療",
+                    "藥物臨床試驗"
                 ],
                 "website": [
                     "Gastric Cancer",
